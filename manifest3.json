@@ -1,0 +1,16 @@
+{
+  "name": "Journal",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "icon": "/icon.svg",
+  "author": "kurara ara",
+  "description": "A Journal for D&D.",
+  "homepage_url": "https://github.com/kurara-ara/dummy-sheet",
+  "action": {
+    "title": "Journal",
+    "icon": "/icon.svg",
+    "popover": "index.html",
+    "height": 1200,
+    "width": 700
+  }
+}
